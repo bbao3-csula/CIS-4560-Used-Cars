@@ -188,4 +188,4 @@ hdfs dfs -getmerge /user/your-user/UsedCars used_cars_simple.csv
 $ ls
 
 -- Download file to local machine
-$ scp your_user@your_ip_address:/home/your_local_machine/used_cars_simple.csv ~
+$ scp your_user@your_ip_address:/home/your_local_machine/used_cars_simple.csv ~/Downloads/
